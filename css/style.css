@@ -758,7 +758,7 @@ header .ham-burger.active span:nth-child(2){
 	height: 45px;
 	padding:0px 50px;
 	border:1px solid transparent;
-	background-color: #203239;
+	background-color: #9dbdca;
 	color:#ffffff;
 	font-size: 15px;
 	transition: all .5s ease;
@@ -773,7 +773,7 @@ header .ham-burger.active span:nth-child(2){
 .contact .content .text h2{
 	font-size: 30px;
     font-weight: 500;
-    color: #203239;
+    color: #9dbdca;
     padding: 0px 0px 20px;
 }
 .contact .content .text p{
@@ -807,7 +807,7 @@ header .ham-burger.active span:nth-child(2){
 	left:0px;
 	top:0px;
 	font-size: 20px;
-	color:#203239;
+	color:#9dbdca;
 }
 .contact .content .text .social {
 	padding-top: 30px;
@@ -817,7 +817,7 @@ header .ham-burger.active span:nth-child(2){
 	width: 40px;
 	line-height: 40px;
 	text-align: center;
-	background-color: #203239;
+	background-color: #9dbdca;
     text-decoration: none;	
     display: inline-block;
     margin-right: 10px;
